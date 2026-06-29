@@ -2,8 +2,8 @@
   {
     "id": "gaming",
     "name": "Gaming-Modul",
-    "description": "Firmen- & Spiele-Registrierung, Game-ID-Validierung, Item-Trading, Marktplatz",
-    "version": "1.0.4",
+    "description": "Eigene UI: Firmen- & Spiele-Registrierung, Company-Verwaltung, Item-Trading, Marktplatz",
+    "version": "1.0.5",
     "icon": "\ud83c\udfae",
     "rating": 4.8,
     "reviews": 42,
