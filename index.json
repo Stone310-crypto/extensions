@@ -55,8 +55,8 @@
   {
     "id": "theme-editor",
     "name": "Theme Editor",
-    "description": "CSS-Variablen live bearbeiten & eigene Themes erstellen",
-    "version": "1.0.0",
+    "description": "Live-Vorschau, Per-Component-CSS (Wallet, Chat, Settings, NavBar, Explorer, Profil)",
+    "version": "1.0.1",
     "icon": "\ud83c\udfa8",
     "rating": 0,
     "reviews": 0,
