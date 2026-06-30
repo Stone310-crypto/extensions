@@ -64,5 +64,22 @@
       "storage"
     ],
     "author": "StoneChain"
+  },
+  {
+    "id": "dashboard",
+    "name": "Dashboard-Modul",
+    "description": "Node-Statistiken, System-Ressourcen, Log-Viewer & Einstellungen",
+    "version": "1.0.0",
+    "icon": "\ud83d\udcca",
+    "rating": 0,
+    "reviews": 0,
+    "downloads": 0,
+    "size_mb": 1,
+    "repository": "Stone310-crypto/dashboard-extension",
+    "permissions": [
+      "network",
+      "storage"
+    ],
+    "author": "StoneChain"
   }
 ]
