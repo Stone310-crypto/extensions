@@ -48,5 +48,21 @@
       "wallet"
     ],
     "author": "StoneChain"
+  },
+  {
+    "id": "theme-editor",
+    "name": "Theme Editor",
+    "description": "CSS-Variablen live bearbeiten & eigene Themes erstellen",
+    "version": "1.0.0",
+    "icon": "\ud83c\udfa8",
+    "rating": 0,
+    "reviews": 0,
+    "downloads": 0,
+    "size_mb": 1,
+    "repository": "Stone310-crypto/theme-editor",
+    "permissions": [
+      "storage"
+    ],
+    "author": "StoneChain"
   }
 ]
