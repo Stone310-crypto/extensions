@@ -4,7 +4,7 @@
     "name": "Gaming-Modul",
     "description": "Eigene UI: Firmen- & Spiele-Registrierung, Company-Verwaltung, Item-Trading, Marktplatz",
     "version": "1.0.5",
-    "icon": "\ud83c\udfae",
+    "icon": "🎮",
     "rating": 4.8,
     "reviews": 42,
     "downloads": 1230,
@@ -22,7 +22,7 @@
     "name": "Dashboard-Modul",
     "description": "Grafiken, Statistiken & Node-Monitoring",
     "version": "1.0.0",
-    "icon": "\ud83d\udcca",
+    "icon": "📊",
     "rating": 4.2,
     "reviews": 15,
     "downloads": 890,
@@ -38,9 +38,9 @@
   {
     "id": "2fa",
     "name": "2FA-Modul",
-    "description": "Zwei-Faktor-Authentifizierung f\u00fcr Wallet-Transaktionen",
+    "description": "Zwei-Faktor-Authentifizierung für Wallet-Transaktionen",
     "version": "1.0.0",
-    "icon": "\ud83d\udd10",
+    "icon": "🔐",
     "rating": 4.9,
     "reviews": 8,
     "downloads": 340,
@@ -57,7 +57,7 @@
     "name": "Theme Editor",
     "description": "Live-Vorschau, Per-Component-CSS (Wallet, Chat, Settings, NavBar, Explorer, Profil)",
     "version": "1.2.1",
-    "icon": "\ud83c\udfa8",
+    "icon": "🎨",
     "rating": 0,
     "reviews": 0,
     "downloads": 0,
@@ -74,7 +74,7 @@
     "name": "Dashboard-Modul",
     "description": "Node-Statistiken, System-Ressourcen, Log-Viewer & Einstellungen",
     "version": "1.0.0",
-    "icon": "\ud83d\udcca",
+    "icon": "📊",
     "rating": 0,
     "reviews": 0,
     "downloads": 0,
@@ -86,5 +86,22 @@
     ],
     "author": "StoneChain",
     "category": "extension"
+  },
+  {
+    "id": "testnet-mode",
+    "name": "Testnet Mode",
+    "description": "Schaltet das Dashboard zwischen Mainnet und Testnet um. Warnt vor experimentellen Features.",
+    "version": "1.0.0",
+    "icon": "🧪",
+    "rating": 0.0,
+    "reviews": 0,
+    "downloads": 0,
+    "size_mb": 1,
+    "repository": "Stone310-crypto/testnet-mode-extension",
+    "permissions": [
+      "storage"
+    ],
+    "category": "utility",
+    "author": "StoneChain"
   }
 ]
